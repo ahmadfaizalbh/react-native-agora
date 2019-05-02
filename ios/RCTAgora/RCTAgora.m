@@ -1965,7 +1965,7 @@ RCT_EXPORT_METHOD(setLiveTranscoding:(NSDictionary *)options) {
                                                  @"uid": @(uid),
                                                  @"width": @(size.width),
                                                  @"height": @(size.height),
-                                                 @"roration": @(rotation)
+                                                 @"rotation": @(rotation)
                                                  }];
 }
 
